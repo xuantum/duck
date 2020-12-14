@@ -19,7 +19,7 @@ Twitter API keys
 mkdir "data" and "images".  
 Rewrite Twitter API keys in "config.py".  
 Add users that you want to watch to "all_userlist.txt".  
-Place "tweet_history.txt" as empty.  
+Place "tweet_history.txt" empty.  
 
 ## Usage
 python step01.py  
